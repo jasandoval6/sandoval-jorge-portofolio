@@ -25,8 +25,7 @@ Implemented local storage with SQLite, integrated IGDB for live game metadata, a
 ---
 
 #0.3 🔐 CTF Cybersecurity Project
-**Stack:** C, Python, Linux (Ubuntu), Auditd, Ghidra
-
+**Stack:** C, Python, Linux (Ubuntu), Auditd, Ghidra  
 Designed a buffer overflow challenge as part of a multi-stage Capture the Flag (CTF) project.  
 Developed stack-based vulnerability logic, memory analysis workflows, and automated testing scripts.
 
