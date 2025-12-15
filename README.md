@@ -11,7 +11,7 @@ All code repositories are private. This overview highlights each project’s arc
 Interactive web-based visualization tool for exploring rat brain anatomy.  
 Designed dynamic SVG-based data visualizations, integrated PubMed search via the NCBI API, and applied D3.js for data-driven graphics.
 
-📄 [Read More](projects/rat-brain-atlas.md)
+📄 [View Rat Brain Atlas Literature Features](projects/rat-brain-atlas.md)
 
 ---
 
@@ -19,9 +19,8 @@ Designed dynamic SVG-based data visualizations, integrated PubMed search via the
 **Stack:** Flutter, SQLite, IGDB API  
 iOS diary app for tracking game reviews, ratings, and favorites.  
 Implemented local storage with SQLite, integrated IGDB for live game metadata, and designed an accessible, intuitive interface.
-![gamed preview](assets/gamed/gamed-user-profile.png)
 
-📄 [Read More](projects/gamed.md)
+📄 [View gamed. architecture, UI flows, and features](projects/gamed.md)
 
 ---
 
@@ -39,7 +38,7 @@ Developed stack-based vulnerability logic, memory analysis workflows, and automa
 Led stakeholder interviews and requirements elicitation for a smart city application supporting older adults.  
 Produced structured IEEE-style documentation emphasizing accessibility, security, and operational design.
 
-📄 [Read More](projects/active-engage.md)
+📄 [View El Paso Active Engage](projects/active-engage.md)
 
 ---
 
