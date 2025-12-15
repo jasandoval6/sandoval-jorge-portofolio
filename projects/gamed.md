@@ -24,6 +24,6 @@ and offline data storage.
 ## Engineering Focus
 Frontend development • Mobile UI/UX • API integration • Local data persistence • User-centered design
 
-## Photo Examples:
+## System Artifacts
 
 *(Source code maintained in a private repository — details and walkthroughs available upon request.)*
