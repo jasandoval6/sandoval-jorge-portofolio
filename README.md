@@ -19,6 +19,7 @@ Designed dynamic SVG-based data visualizations, integrated PubMed search via the
 **Stack:** Flutter, SQLite, IGDB API  
 iOS diary app for tracking game reviews, ratings, and favorites.  
 Implemented local storage with SQLite, integrated IGDB for live game metadata, and designed an accessible, intuitive interface.
+![gamed preview](assets/gamed/gamed-user-profile.png)
 
 📄 [Read More](projects/gamed.md)
 
