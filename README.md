@@ -48,6 +48,7 @@ Software Requirements • Research Applications • Usability Design • Cross-f
 
 ---
 
-📫 **Contact**
-- **GitHub:** [jasandoval6](https://github.com/jasandoval6)  
-- **LinkedIn:** [linkedin.com/in/jorge-sandoval]([https://linkedin.com/in/jorge-sandoval-se](https://www.linkedin.com/in/jorge-sandoval-se))
+## 📬 Contact
+
+- **GitHub:** [jasandoval6](https://github.com/jasandoval6)
+- **LinkedIn:** [linkedin.com/in/jorge-sandoval](https://www.linkedin.com/in/jorge-sandoval-se/)
