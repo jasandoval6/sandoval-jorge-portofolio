@@ -29,13 +29,13 @@ The goal was to translate stakeholder needs into a clear, scalable system design
 ## System Design Artifacts
 
 ### Context Diagram
-![Context Diagram](assets/active-engage/context-diagram.jpeg)
+![Context Diagram](../assets/active-engage/context-diagram.jpeg)
 
 Illustrates system boundaries and interactions between users, sponsors, managers, and administrators.
 
 ---
 
 ### Level 1 Data Flow Diagram
-![Data Flow Diagram](assets/active-engage/data-flow-diagram.jpeg)
+![Level 1 Data Flow Diagram](../assets/active-engage/data-flow-diagram.jpeg)
 
 Represents how data flows across key system processes.
