@@ -1,12 +1,11 @@
 # 🧠 Rat Brain Atlas
 
-**Technologies:** React, Firebase, D3.js, NCBI E-utilities API.
-**Role:** Frontend Developer & Project Collaborator.
-**Type:** Graduate Practicum Project.
+**Technologies:** React, Firebase, D3.js, NCBI E-utilities API  
+**Role:** Frontend Developer & Project Collaborator  
+**Type:** Graduate Practicum Project  
 
 ## Overview
-Developed an interactive web-based visualization tool for exploring rat brain anatomy through dynamic SVG graphics. 
-Designed to assist research visualization and literature search integration.
+Developed an interactive web-based visualization tool for exploring rat brain anatomy through dynamic SVG graphics. Designed to assist research visualization and literature search integration.
 
 ## Key Features
 - Dynamic, data-driven SVG visualizations via D3.js  
