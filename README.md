@@ -42,7 +42,7 @@ Produced structured IEEE-style documentation emphasizing accessibility, security
 
 ---
 
-#0.5 Skills & Focus
+#Skills & Focus  
 Frontend Development • Fullstack Development • Data Visualization • Flutter • React.js • API Integration  
 Software Requirements • Research Applications • Usability Design • Cross-functional Collaboration
 
