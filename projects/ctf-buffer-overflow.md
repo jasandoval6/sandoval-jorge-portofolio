@@ -65,4 +65,4 @@ This structure emphasized **understanding memory layout and exploitation mechani
 ## Engineering Focus
 Low-level programming • Memory analysis • Security fundamentals • Linux system configuration • Automation scripting • Ethical exploit design
 
-*(Source code maintained in a private repository — technical walkthroughs and implementation details available upon request.)*
+*(Source code maintained in a private repository — implementation details available upon request.)*
