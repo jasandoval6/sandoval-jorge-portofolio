@@ -1,21 +1,38 @@
-# 🧠 Rat Brain Atlas
+# 🧠 Rat Brain Atlas — Research Visualization Tool
 
 **Technologies:** React, Firebase, D3.js, NCBI E-utilities API  
 **Role:** Frontend Developer & Project Collaborator  
 **Type:** Graduate Practicum Project  
 
+---
+
 ## Overview
-Developed an interactive web-based visualization tool for exploring rat brain anatomy through dynamic SVG graphics. Designed to assist research visualization and literature search integration.
+
+The Rat Brain Atlas is an interactive, web-based visualization tool designed to support research-driven exploration of rat brain anatomy. 
+The application enables users to navigate anatomical brain regions through dynamic, SVG-based visualizations while integrating relevant scientific literature via PubMed search.
+
+The project emphasized frontend architecture, data visualization, and usability in a research context, delivering an accessible and responsive interface suitable for exploratory analysis.
+
+---
 
 ## Key Features
-- Dynamic, data-driven SVG visualizations via D3.js  
-- Firebase integration for storing reference images  
-- PubMed article search via NCBI E-utilities API  
-- Accessibility and responsive design for usability in research environments  
+
+- Developed dynamic, data-driven SVG visualizations using D3.js to represent anatomical brain structures
+- Built a responsive React-based frontend using component-driven design principles
+- Integrated PubMed article search functionality via the NCBI E-utilities API
+- Implemented Firebase-backed image storage to support anatomical reference materials
+- Designed with accessibility and usability in mind for research-focused workflows
+
+---
 
 ## Engineering Focus
-Frontend development • Data visualization • API integration • Usability design  
 
-## Photo Examples:
+Frontend development • Data visualization • API integration • Research-oriented UX • Accessibility
 
-*(Private repository – code available upon request.)*
+---
+
+## Photo Examples
+
+---
+
+*(Private repository — source code available upon request.)*
