@@ -34,6 +34,24 @@ Frontend development • Data visualization • API integration • Research-ori
 
 ## System Artifacts
 
+### Homepage
+![Rat Brain Atlas Homepage](../assets/rat-brain-atlas/rat-brain-homepage.png)
+
+### Literature Search Interface
+![Literature Page](../assets/rat-brain-atlas/rat-brain-lit-page.png)
+
+### API Source Selection (PubMed / Google Scholar)
+![API Selection](../assets/rat-brain-atlas/rat-brain-APIs.png)
+
+### Search Results View
+![Search Results](../assets/rat-brain-atlas/rat-brain-search.png)
+
+### Article Overview Panel
+![Article Overview](../assets/rat-brain-atlas/rat-brain-article-overview.png)
+
+### External Link Usage
+![External Link Usage](../assets/rat-brain-atlas/rat-brain-link-usage.png)
+
 ---
 
 *(Private repository — source code available upon request.)*
