@@ -11,7 +11,7 @@ All code repositories are private. This overview highlights each project’s arc
 Interactive web-based visualization tool for exploring rat brain anatomy.  
 Designed dynamic SVG-based data visualizations, integrated PubMed search via the NCBI API, and applied D3.js for data-driven graphics.
 
-📄 [Read More](projects/rat-brain-atlas.md;)
+📄 [Read More](projects/rat-brain-atlas.md)
 
 ---
 
