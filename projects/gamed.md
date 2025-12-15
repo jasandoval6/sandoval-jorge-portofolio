@@ -52,44 +52,22 @@ This project is representative of how I approach building maintainable, user-foc
 ## System Artifacts
 
 ### User Profile
-Shows the main profile view with navigation tabs and top favorite games.
+![User Profile](../assets/gamed/gamed-user-profile.png)
 
-![User Profile](assets/gamed/gamed-user-profile.png)
+### Search Games Interface
+![Search Games](../assets/gamed/gamed-search-games.png)
 
----
+### Game Detail View
+![Game Detail](../assets/gamed/gamed-game-result.png)
 
-### Search Games
-Search results populated from an external game API with platform metadata.
+### Game Review & Rating UI
+![Game Review UI](../assets/gamed/gamed-game-review-UI.png)
 
-![Search Games](assets/gamed/gamed-search-games.png)
+### Diary View
+![Diary](../assets/gamed/gamed-profile-diary.png)
 
----
-
-### Game Details
-Detailed view of a selected game, including supported platforms and diary entry access.
-
-![Game Detail](assets/gamed/gamed-game-result.png)
-
----
-
-### Rate & Review UI
-Custom modal for rating games across multiple categories and adding comments.
-
-![Game Review UI](assets/gamed/gamed-game-review-UI.png)
-
----
-
-### Diary
-Chronological diary entries showing completed reviews and ratings.
-
-![Profile Diary](assets/gamed/gamed-profile-diary.png)
-
----
-
-### Lists
-User-curated lists for organizing liked and favorite games.
-
-![User Lists](assets/gamed/gamed-user-lists.png)
+### User Lists
+![User Lists](../assets/gamed/gamed-user-lists.png)
 
 ---
 *(Source code maintained in a private repository — details and walkthroughs available upon request.)*
