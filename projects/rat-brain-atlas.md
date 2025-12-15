@@ -32,7 +32,7 @@ Frontend development • Data visualization • API integration • Research-ori
 
 ---
 
-## Photo Examples:
+## System Artifacts
 
 ---
 
