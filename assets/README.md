@@ -1,1 +1,1 @@
-Assets folder for project images and diagrams.
+Assets folder for project images.
