@@ -6,7 +6,7 @@ This overview highlights each project’s architecture, objectives, and engineer
 
 ---
 
-#0.1 🧠 Rat Brain Atlas
+# 0.1 🧠 Rat Brain Atlas
 **Stack:** React, Firebase, D3.js, NCBI E-utilities API  
 Interactive web-based visualization tool for exploring rat brain anatomy.  
 Designed dynamic SVG-based data visualizations, integrated PubMed search via the NCBI API, and applied D3.js for data-driven graphics.
@@ -15,7 +15,7 @@ Designed dynamic SVG-based data visualizations, integrated PubMed search via the
 
 ---
 
-#0.2 🎮 gamed.
+# 0.2 🎮 gamed.
 **Stack:** Flutter, SQLite, IGDB API  
 iOS diary app for tracking game reviews, ratings, and favorites.  
 Implemented local storage with SQLite, integrated IGDB for live game metadata, and designed an accessible, intuitive interface.
@@ -24,7 +24,7 @@ Implemented local storage with SQLite, integrated IGDB for live game metadata, a
 
 ---
 
-#0.3 🔐 CTF Cybersecurity Project
+# 0.3 🔐 CTF Cybersecurity Project
 **Stack:** C, Python, Linux (Ubuntu), Auditd, Ghidra  
 Designed a buffer overflow challenge as part of a multi-stage Capture the Flag (CTF) project.  
 Developed stack-based vulnerability logic, memory analysis workflows, and automated testing scripts.
@@ -33,7 +33,7 @@ Developed stack-based vulnerability logic, memory analysis workflows, and automa
 
 ---
 
-#0.4 🏙️ El Paso Active Engage
+# 0.4 🏙️ El Paso Active Engage
 **Stack:** Software Requirements & Systems Design  
 Led stakeholder interviews and requirements elicitation for a smart city application supporting older adults.  
 Produced structured IEEE-style documentation emphasizing accessibility, security, and operational design.
@@ -42,7 +42,7 @@ Produced structured IEEE-style documentation emphasizing accessibility, security
 
 ---
 
-Skills & Focus  
+# 👨‍💻 Skills & Focus  
 Frontend Development • Fullstack Development • Data Visualization • Flutter • React.js • API Integration  
 Software Requirements • Research Applications • Usability Design • Cross-functional Collaboration
 
