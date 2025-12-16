@@ -65,4 +65,11 @@ This structure emphasized **understanding memory layout and exploitation mechani
 ## Engineering Focus
 Low-level programming • Memory analysis • Security fundamentals • Linux system configuration • Automation scripting • Ethical exploit design
 
-*(Source code maintained in a private repository — implementation details available upon request.)*
+---
+
+## What I learned
+Through building the buffer overflow challenge, I gained hands-on experience programming in C and working within a Linux (Ubuntu) environment. I learned how to analyze vulnerable C programs, understand stack-based memory behavior, and apply foundational Linux commands to configure and manage a controlled CTF environment. Additionally, I developed setup scripts to automate installation and configuration of required tools, including Auditd, reinforcing the importance of reproducible environments.
+
+---
+
+*(Source code maintained in a private repository — implementation details available upon request.)
