@@ -33,14 +33,14 @@ Frontend development • Data visualization • API integration • Research-ori
 ---
 
 ## What I learned
-- I learned how to build a web application that integrates dynamic SVG-based visualizations, external APIs, and cloud-hosted assets while maintaining performance, accessibility, and clear data flow between components.
-
-- Firebase was selected for image storage to decouple large media assets from the frontend codebase and allow scalable access to high-resolution brain images. This decision reduced load times, simplified asset management, and supported future expansion without requiring major architectural changes. 
+I learned how to build a web application that integrates dynamic SVG-based visualizations, external APIs, and cloud-hosted assets while maintaining performance, accessibility, and clear data flow between components.
 
 ---
 
 ## Rationale
-- React was chosen as the frontend framework to support component-based architecture and predictable state management as the application grew in complexity. By separating visualization logic, UI components, and data-fetching concerns, the application remained modular and easier to iterate on during development.  
+- React was chosen as the frontend framework to support component-based architecture and predictable state management as the application grew in complexity. By separating visualization logic, UI components, and data-fetching concerns, the application remained modular and easier to iterate on during development.
+
+- Firebase was selected for image storage to decouple large media assets from the frontend codebase and allow scalable access to high-resolution brain images. This decision reduced load times, simplified asset management, and supported future expansion without requiring major architectural changes. 
 
 - For literature integration, the NCBI E-utilities API was used to connect anatomical exploration directly with relevant PubMed research. This design choice ensured that users could move seamlessly from visual exploration to academic context without leaving the application, reinforcing the tool’s research-oriented purpose.
 
