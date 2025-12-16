@@ -1,8 +1,7 @@
 # Jorge Sandoval — Software Engineering Portfolio
 
 Greetings!
-This portfolio showcases selected projects from my graduate and professional work in software engineering.  
-All code repositories are private.  
+This portfolio showcases selected projects from my graduate and professional work in software engineering. All code repositories are private.  
 This overview highlights each project’s architecture, objectives, and engineering focus.
 
 ---
