@@ -12,16 +12,6 @@ and offline data storage.
 
 ---
 
-## Architecture Overview
-
-- **UI Layer:** Flutter widgets (screens, dialogs, components)
-- **Controllers:** Handle business logic and state coordination
-- **Models:** Strongly-typed data models for games, users, and reviews
-- **Database:** Local SQLite database using `sqflite`
-- **Services:** External API integration for game search
-
----
-
 ## Key Features
 - Search games via external API
 - Diary-style game reviews with ratings
@@ -35,6 +25,35 @@ and offline data storage.
 
 ## Engineering Focus
 Frontend development • Mobile UI/UX • API integration • Local data persistence • User-centered design
+
+---
+## What I learned
+- How to built a cross-platform mobile application using Flutter with a strong emphasis on reusable UI components and responsive layouts.  
+- Gained hands-on experience managing local data persistence with SQLite to support offline access and fast read/write operations.  
+- Integrated a third-party API (IGDB) and designed clear data flow between external services and frontend views.  
+- Improved frontend usability through iterative refinement focused on navigation clarity, accessibility, and performance.  
+
+---
+## Rationale
+- Flutter was chosen to enable rapid iteration and consistent UI behavior across platforms using a single codebase.  
+
+- SQLite was used to prioritize performance, reliability, and offline-first functionality for user-generated content.  
+    
+- IGDB API provided authoritative game metadata, allowing the app to focus on user interaction rather than data management.  
+  
+- Design decisions emphasized simplicity and low friction, ensuring users could search, review, and organize games efficiently.  
+
+---
+
+## Architecture Overview
+
+- **UI Layer:** Flutter widgets (screens, dialogs, components)
+- **Controllers:** Handle business logic and state coordination
+- **Models:** Strongly-typed data models for games, users, and reviews
+- **Database:** Local SQLite database using `sqflite`
+- **Services:** External API integration for game search
+
+---
 
 ## Why This Project Matters
 
