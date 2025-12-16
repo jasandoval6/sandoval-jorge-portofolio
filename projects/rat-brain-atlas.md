@@ -46,6 +46,11 @@ I learned how to build a web application that integrates dynamic SVG-based visua
 
 ---
 
+## Why This Project Matters
+This project helps scientists, students, and learners deepen their understanding of rat brain anatomy through interactive visualization and direct access to related research.
+
+---
+
 ## System Artifacts
 
 ### Homepage
